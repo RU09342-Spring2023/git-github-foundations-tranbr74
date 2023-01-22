@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub
 
-Brandon Tran has read and has a somewhat understanding of how to use GitHub.
+Brandon Tran has read and has an OKAY understanding of how to use GitHub.
 
 ## 🤓 Course overview and learning outcomes
 
